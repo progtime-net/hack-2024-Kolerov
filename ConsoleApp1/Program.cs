@@ -1,8 +1,8 @@
 ﻿public class Program
 {
-    public void Print()
+    public void Print1()
     {
-        Console.WriteLine("dvsdv");
+        //Console.WriteLine("ddsaa");
     }
     private static void Main(string[] args)
     {
